@@ -54,7 +54,7 @@ From there, we used different classifications methods like linear regression and
 # Conclusions and Future Work
 In the future, we'd also like to have a website that is a bit more interactive. We did not have enough time to make this site interactive, but it would be nice to allow the owner to enter various different attributes they are looking for and use that to narrow down a list of breeds that would most fit that owners desires. This in itself could be another data science project as well, comparing trait desirability against the common traits of certain breeds. 
 
-To further this work, we could have created classified groups that dog breeds can be placed in. 
+To also further this work, we could have created classified groups that dog breeds can be placed in. 
 
 # Support Materials
 These are the raw Jupyter notebooks that we've used throughout our project to gather the data, clean it, process it, 
