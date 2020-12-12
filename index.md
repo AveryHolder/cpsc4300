@@ -54,9 +54,9 @@ In the future, it would have been smart if we did a prediction model that predic
 To further this work, we could have created classified groups that dog breeds can be placed in. 
 
 # Support Materials
-Read about our setup [here](./0_setup_project_folders.ipynb)
+Read about our setup for gathering and cleaning [here](https://github.com/AveryHolder/cpsc4300/blob/gh-pages/gather_and_clean.ipynb).
 
-Read about our processing [here](./Clean_and_summarize_data.ipynb)
+Read about our processing and conclusions [here](https://github.com/AveryHolder/cpsc4300/blob/gh-pages/process.ipynb).
 
 # Declaration of academic integrity and responsibility
 
