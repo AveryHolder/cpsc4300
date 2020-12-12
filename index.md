@@ -47,10 +47,12 @@ Next, we decided to try using Classification with KNN, which we decided was a be
 
 At the start of our project, we were a little confused about how to approach this topic. It seems like Classification was the most fitting choice to 'classify' the dogs into breeds that different owners may like.
 
-Throughout this project, we first cleaned the data using all of the tools we learned through class. This allowed us to better analyze relationships between variables and breeds.
+Throughout this project, we first cleaned the data using all of the tools we learned through class. This allowed us to better analyze relationships between variables and breeds. We were able to gather the data from a website that listed certain traits using webscraping. We also got some data directly as an excel spreadsheet from a different website. We were able to combine these and then clean it a bit to make the data more manageable.
+
+From there, we used different classifications methods like linear regression and k-Nearest Neighbor to classify the data. The linear regression did not work well, as noted above, but we saw better results using k-Nearest Neighbor. 
 
 # Conclusions and Future Work
-In the future, it would have been smart if we did a prediction model that predicted what breed an owner would want, instead we chose a classification approach that also worked. 
+In the future, we'd also like to have a website that is a bit more interactive. We did not have enough time to make this site interactive, but it would be nice to allow the owner to enter various different attributes they are looking for and use that to narrow down a list of breeds that would most fit that owners desires. This in itself could be another data science project as well, comparing trait desirability against the common traits of certain breeds. 
 
 To further this work, we could have created classified groups that dog breeds can be placed in. 
 
