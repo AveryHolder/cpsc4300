@@ -1,6 +1,6 @@
-# TITLE: Dog Breeds Analysis
-## Team Members: Kalynn Rhew, Avery Holder, and Colin Rogers
-## Date: 12/10/2020
+# Dog Breeds Analysis
+#### Team Members: Kalynn Rhew, Avery Holder, and Colin Rogers
+#### Date: 12/10/2020
 
 # Problem Statement and Motivation
 
@@ -55,8 +55,8 @@ In the future, it would have been smart if we did a prediction model that predic
 To further this work, we could have created classified groups that dog breeds can be placed in. 
 
 # Support Materials
-Read about our setup for gathering and cleaning [here](https://github.com/AveryHolder/cpsc4300/blob/gh-pages/gather_and_clean.ipynb).
-
+These are the raw Jupyter notebooks that we've used throughout our project to gather the data, clean it, process it, 
+Read about our setup for gathering and cleaning [here](https://github.com/AveryHolder/cpsc4300/blob/gh-pages/gather_and_clean.ipynb). 
 Read about our processing and conclusions [here](https://github.com/AveryHolder/cpsc4300/blob/gh-pages/process.ipynb).
 
 # Declaration of academic integrity and responsibility
