@@ -20,14 +20,13 @@ We also created a function that would create an individual bar graph for each do
 
 # Literature Review/Related Work 
 #### Personality Consistency in Dogs: A Meta-Analysis
-This study explores the personality traits of dogs and how personality does and does not change from puppyhood to adulthood. The researchers found that aggressiveness and submissiveness were the most constant traits, but that response to training was the least consistent. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3553070/
+This study explores the personality traits of dogs and how personality does and does not change from puppyhood to adulthood. The researchers found that aggressiveness and submissiveness were the most constant traits, but that response to training was the least consistent. You can read more about this [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3553070/).
 
 #### What Dog Breed is That? 
-This project is designed to determine the breed of a dog using machine/deep learning techniques. This application has the goal of creating a classifier capable of determining a dog’s breed from a photo. https://towardsdatascience.com/dog-breed-identification-e3c6d6b4be84
+This project is designed to determine the breed of a dog using machine/deep learning techniques. This application has the goal of creating a classifier capable of determining a dog’s breed from a photo. You can read more about this [here](https://towardsdatascience.com/dog-breed-identification-e3c6d6b4be84).
 
 #### Best in show: The Ultimate Data Dog 
-This shows a visualization of a ranking of different dog breeds. The Criteria were intelligence, costs, longevity, grooming, ailments, and appetite.
-https://www.informationisbeautiful.net/visualizations/best-in-show-whats-the-top-data-dog/
+This shows a visualization of a ranking of different dog breeds. The Criteria were intelligence, costs, longevity, grooming, ailments, and appetite. You can read more about about this [here](https://www.informationisbeautiful.net/visualizations/best-in-show-whats-the-top-data-dog/).
 
 # Modeling Approach
 The baseline model was originally a plot of the absolute/relative error using linear regression.
