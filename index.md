@@ -11,12 +11,12 @@ This problem is important because there are many dogs in shelters and sometimes 
 
 Below is a bar graph ranking the 5 dogs with the highest mean score and their relative category scores.
 
-![./images/top5.png](attachment:./images/top5.png)
+![Top 5 Dogs](/images/top5.png)
 
 
 We also created a function that would create an individual bar graph for each dog breed. Below is an example of one.
 
-![./images/example_dog_graph.png](attachment:./images/example_dog_graph.png)
+![An example of an individual dog's scores](/images/example_dog_graph.png)
 
 # Literature Review/Related Work 
 This study explores the personality traits of dogs and personality does and does not change from puppyhood to adulthood. The researchers found that aggressiveness and submissiveness were the most constant traits, but that response to training was the least consistent. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3553070/
@@ -35,11 +35,11 @@ We also decided that in addition to the linear regression that we would implimen
 We tried linear regression but that did not seem to communicate the relative error as well as we desired. Due to this we decided to impliment additional approaches. 
 We noticed that there was more of a pattern in the relative error on the results provided by the K-NN approach. Below is the linear plot we tried to make of the error. 
 
-![./image/lin-reg.png](attachment:./image/lin-reg.png)
+![An example of linear regression on the data, which did not work.](/images/lin-reg.png)
 
 Next, we decided to try using Classification with KNN, which we decided was a better modeling approach for this problem.
 
-![./image/knn.png](attachment:./image/knn.png)
+![An example of K-NN which seemed to work much better.](/images/knn.png)
 
 
 # Project Trajectory, Results, and Interpretation 
