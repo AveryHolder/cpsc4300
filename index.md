@@ -35,7 +35,7 @@ We also decided that in addition to the linear regression that we would implimen
 We tried linear regression but that did not seem to communicate the relative error as well as we desired. Due to this we decided to impliment additional approaches. 
 We noticed that there was more of a pattern in the relative error on the results provided by the K-NN approach. Below is the linear plot we tried to make of the error. 
 
-![An example of linear regression on the data, which did not work.](/images/lin-reg.png)
+![An example of linear regression on the data, which did not work.](/images/lin_reg.png)
 
 Next, we decided to try using Classification with KNN, which we decided was a better modeling approach for this problem.
 
